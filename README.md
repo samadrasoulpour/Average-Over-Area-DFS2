@@ -58,8 +58,6 @@ Free to use and modify. If you improve it or use it in your work, I’d love to 
 
 ## Author
 S. Rasoulpour
-Master’s Thesis Tool - 2025
+Master’s Thesis Tool - 2024
 
 markdown
-Copy
-Edit
