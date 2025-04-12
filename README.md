@@ -23,11 +23,13 @@ Older versions of MIKE by DHI (e.g., 2014) lacked built-in tools to compute spat
 Make sure you have `gfortran` installed, then compile the code:
 
 >> gfortran -O2 -o aoa aoa.f90
+
 Then add the executable to your PATH, or keep it in the working directory.
 
 ## How to Use
 
 >> aoa [input_filename.txt]
+
 The input should be an ASCII file exported from a DFS2 dataset (2D + time).
 
 The program will prompt for:
