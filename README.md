@@ -48,8 +48,13 @@ plot.plt - gnuplot script for visualization
 
 You can also use:
 
-aoa -h         # Show help
-aoa --version  # Show version
+>> aoa -h 
+
+Show help
+
+>> aoa --version
+
+Show version
 
 
 ## Dependencies
